@@ -1,0 +1,153 @@
+.styled-title {
+    color: #FFF;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif; /* Specify a fallback font family */
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    top: -17px; /* Adjust the top position in pixels */
+    left: 17px; /* Adjust the left position in pixels */
+}
+.rectangle1 {
+    width: 380px; /* Adjust the width as needed */
+    height: 37px; /* Adjust the height as needed */
+    background: #FFF;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    display: inline-block;
+    position: absolute;
+    top: 49px;
+    left: 18px; 
+}
+.rectangle2 {
+    width: 380px; /* Adjust the width as needed */
+    height: 37px; /* Adjust the height as needed */
+    background: #FFF;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    display: inline-block;
+    position: absolute;
+    top: 102px;
+    left: 18px; 
+}
+.rectangle3 {
+    width: 380px; /* Adjust the width as needed */
+    height: 37px; /* Adjust the height as needed */
+    background: #FFF;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    display: inline-block;
+    position: absolute;
+    top: 155px;
+    left: 18px; 
+}
+.rectangle4 {
+    width: 380px; /* Adjust the width as needed */
+    height: 37px; /* Adjust the height as needed */
+    background: #FFF;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    display: inline-block;
+    position: absolute;
+    top: 208px;
+    left: 18px; 
+}
+.rectangle5 {
+    width: 380px; /* Adjust the width as needed */
+    height: 37px; /* Adjust the height as needed */
+    background: #FFF;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    display: inline-block;
+    position: absolute;
+    top: 261px;
+    left: 18px; 
+}
+.custom-text1 {
+    position: absolute;
+    top: -12px; /* Adjust the top position in pixels */
+    left: 10px; /* Adjust the left position in pixels */
+    color: #02108B;
+    font-size: 20px;
+}
+.custom-text2 {
+    position: absolute;
+    top: -12px; /* Adjust the top position in pixels */
+    left: 10px; /* Adjust the left position in pixels */
+    color: #02108B;
+    font-size: 20px;
+}
+.custom-text3 {
+    position: absolute;
+    top: -12px; /* Adjust the top position in pixels */
+    left: 10px; /* Adjust the left position in pixels */
+    color: #02108B;
+    font-size: 20px;
+}
+.custom-text4 {
+    position: absolute;
+    top: -12px; /* Adjust the top position in pixels */
+    left: 10px; /* Adjust the left position in pixels */
+    color: #02108B;
+    font-size: 20px;
+}
+.custom-text5 {
+    position: absolute;
+    top: -12px; /* Adjust the top position in pixels */
+    left: 10px; /* Adjust the left position in pixels */
+    color: #02108B;
+    font-size: 20px;
+}
+
+.button1 {
+    background: #FFF;
+    font-size: 30px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    width: 63px;
+    height: 36px;
+    flex-shrink: 0;
+    position: absolute;
+    top: 49px;
+    left: 409px; 
+}
+.button2 {
+    background: #FFF;
+    font-size: 30px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    width: 63px;
+    height: 36px;
+    flex-shrink: 0;
+    position: absolute;
+    top: 102px;
+    left: 409px; 
+}
+.button3 {
+    background: #FFF;
+    font-size: 30px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    width: 63px;
+    height: 36px;
+    flex-shrink: 0;
+    position: absolute;
+    top: 155px;
+    left: 409px; 
+}
+.button4 {
+    background: #FFF;
+    font-size: 30px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    width: 63px;
+    height: 36px;
+    flex-shrink: 0;
+    position: absolute;
+    top: 208px;
+    left: 409px; 
+}
+.button5 {
+    background: #FFF;
+    font-size: 30px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    width: 63px;
+    height: 36px;
+    flex-shrink: 0;
+    position: absolute;
+    top: 261px;
+    left: 409px; 
+}

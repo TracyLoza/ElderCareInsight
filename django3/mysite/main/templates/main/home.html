@@ -1,0 +1,26 @@
+<html>
+<head>
+    {% load static %}
+    <link type= 'text/css'  href="{% static 'css/style_home.css' %}" rel='stylesheet'>
+    <title>{% block title %}Home{% endblock %}</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+{% block content %}
+    <h1 class="styled-title">ElderCare Insight</h1>
+    <body style="background: #02108B;">
+        <a href="/patient">
+            <button class="button1"><i class="fa-solid fa-heart-pulse"></i></button>
+        </a>
+        <a href="/patient_list">
+            <button class="button2"><i class="fa-solid fa-list"></i></button>
+        </a>
+        <a href="/settings">
+            <button class="button3"><i class="fa-solid fa-gear"></i></button>
+        </a>
+        <a href="/about">
+            <button class="button4"><i class="fa-solid fa-circle-info"></i></button>
+        </a>
+    
+    </body>
+{% endblock %}

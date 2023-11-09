@@ -1,0 +1,73 @@
+.styled-title {
+    color: #FFF;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif; /* Specify a fallback font family */
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    top: -17px; /* Adjust the top position in pixels */
+    left: 17px; /* Adjust the left position in pixels */
+}
+.button1 {
+    background: #FFF;
+    font-size: 20px;
+    padding: 10px 12px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    width: 203px;
+    height: 74px;
+    flex-shrink: 0;
+    position: absolute;
+    top: 82px;
+    left: 23px; 
+}
+.button2 {
+    background: #FFF;
+    font-size: 20px;
+    padding: 10px 12px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    width: 203px;
+    height: 74px;
+    flex-shrink: 0;
+    position: absolute;
+    top: 82px;
+    left: 256px; 
+}
+.button3 {
+    background: #FFF;
+    font-size: 20px;
+    padding: 10px 12px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    width: 203px;
+    height: 74px;
+    flex-shrink: 0;
+    position: absolute;
+    top: 170px;
+    left: 23px; 
+}
+.button4 {
+    background: #FFF;
+    font-size: 20px;
+    width: 203px;
+    height: 74px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    width: 203px;
+    height: 74px;
+    flex-shrink: 0;
+    position: absolute;
+    top: 170px;
+    left: 256px; 
+}
+.buttonHome {
+    background: #FFF;
+    font-size: 50px;
+    padding: 4px 12px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    width: 107px;
+    height: 62px;
+    flex-shrink: 0;
+    position: absolute;
+    top: 250px;
+    left: 356px;
+}
